@@ -7,7 +7,7 @@ export default function App() {
       {/* Header */}
       <header className="pt-8 sm:pt-12 pb-8">
         <div className="bg-white rounded-full mx-[60px] sm:mx-[80px] py-0.5 px-8 sm:px-12">
-          <h1 className="font-['Ambidexter:Regular',sans-serif] text-black text-[28px] sm:text-[32px] md:text-[36px] text-center">
+          <h1 className="font-['Ambidexter',sans-serif] text-black text-[28px] sm:text-[32px] md:text-[36px] text-center">
             kopenkoff
           </h1>
         </div>
