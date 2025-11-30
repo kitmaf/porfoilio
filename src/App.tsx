@@ -1,6 +1,6 @@
 import { TelegramIcon } from "./components/TelegramIcon";
 import imgCursorImage from "figma:asset/b5080bf3506b3870630ea0fdd4c2d0a4b5b81aa2.png";
-import "./styles/fonts.css";
+import "index.css";
 
 export default function App() {
   return (
